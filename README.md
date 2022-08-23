@@ -11,7 +11,7 @@
  
  <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Nafis-Abdullah&show_icons=true&theme=graywhite&line_height=40"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Nafis-Abdullah&theme=graywhite&hide_langs_below=1">
  
-<!--  <img width="550"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammad-Nafis-Abdullah&show_icons=true&locale=en&layout=compact" alt="NEYAZ NAFIZ" /> -->
+ <!-- <img width="550"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammad-Nafis-Abdullah&show_icons=true&locale=en&layout=compact" alt="Mohammad Nafis Abdullah" /> -->
  
  
  
