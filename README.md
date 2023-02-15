@@ -25,7 +25,7 @@
 </br>
  
 
-<a href="https://www.facebook.com/muhammad.nafis.abdullah">![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>&nbsp;
+<a href="https://www.facebook.com/mohammad.nafis.abdullah">![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>&nbsp;
 <a href="www.linkedin.com/in/mohammad-nafis-abdullah">![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>&nbsp;
 <a href="https://github.com/Mohammad-Nafis-Abdullah">![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>&nbsp;
 
