@@ -1,5 +1,4 @@
 # Hello, I am Mohammad Nafis Abdullah
-<hr>
  
 <div align="center">
 
